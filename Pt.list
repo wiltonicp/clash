@@ -1,5 +1,9 @@
 # 内容：自定义域名
 # 域名后缀匹配
+DOMAIN-SUFFIX,vihacker.top
+DOMAIN-SUFFIX,f.ipto.top
+DOMAIN-SUFFIX,px32.com
+DOMAIN-SUFFIX,fz.xxzi.top
 DOMAIN-SUFFIX,ampproject.org
 DOMAIN-SUFFIX,hddolby.com
 DOMAIN-SUFFIX,pttime.org
