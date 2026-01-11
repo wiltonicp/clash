@@ -1,0 +1,10 @@
+# NAME: Apple Intelligence
+DOMAIN,http://apple-relay.apple.com,"Apple Intelligence" 
+DOMAIN,http://cp4.cloudflare.com,"Apple Intelligence" 
+DOMAIN,http://apple-relay.fastly-edge.com,"Apple Intelligence" 
+DOMAIN,http://apple-relay.akamaized.net,"Apple Intelligence" 
+DOMAIN,http://apple-relay.cloudflare.com,"Apple Intelligence" 
+DOMAIN-SUFFIX,http://smoot.apple.com,"Apple Intelligence" 
+DOMAIN,http://guzzoni.apple.com,"Apple Intelligence"
+DOMAIN,http://gspe1-ssl.ls.apple.com,"Apple Intelligence"
+DOMAIN,http://gateway.icloud.com,"Apple Intelligence"
